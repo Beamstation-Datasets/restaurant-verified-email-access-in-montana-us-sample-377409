@@ -1,0 +1,22 @@
+{
+  "base_price": 2995,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "email",
+  "config_description": "--Reach Independent Inboxes--\n\nWeekly verified, high-deliverability emails.\n\nOnly for established, independent restaurants (or micro-chains) \u2013 large chain enterprises excluded.\n\nWeekly email verification and detailed analysis via our proprietary infrastructure.\n\nBusiness activity validated by an \"Active Heartbeat\" signal.",
+  "config_name": "Restaurant Verified Email Access in Montana, US",
+  "export_job_id": "0c632be5-8636-420f-aa8f-37266a708f97",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 377409,
+  "location_name": "Montana",
+  "location_type": "state",
+  "repo_name": "restaurant-verified-email-access-in-montana-us-sample-377409",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/377409/beamstation_377409_restaurants-us-mt_SAMPLE_DIST.csv",
+  "sample_pct": 9.85,
+  "sample_records": 51,
+  "sample_sha256": "20fb1f89172aad26b4ae3b69df579383af8d3b64b60d78ffba5625682848d4a8",
+  "sample_size_bytes": 207254,
+  "total_records": 518,
+  "updated_at": "2026-04-07T23:40:49.880203+00:00"
+}
