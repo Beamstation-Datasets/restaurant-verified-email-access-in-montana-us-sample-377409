@@ -1,12 +1,12 @@
 {
-  "export_job_id": "0c632be5-8636-420f-aa8f-37266a708f97",
+  "export_job_id": "6029a951-950d-40d6-9b55-6ace08631e47",
   "id_short": 377409,
-  "published_at": "2026-04-11T19:43:47Z",
+  "published_at": "2026-04-18T07:59:52Z",
   "repo_name": "restaurant-verified-email-access-in-montana-us-sample-377409",
   "sample_asset_name": "beamstation_377409_restaurants-us-mt_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/377409/beamstation_377409_restaurants-us-mt_SAMPLE_DIST.csv",
-  "sample_records": 51,
-  "sample_sha256": "20fb1f89172aad26b4ae3b69df579383af8d3b64b60d78ffba5625682848d4a8",
-  "sample_size_bytes": 207254,
-  "total_records": 518
+  "sample_records": 50,
+  "sample_sha256": "3e4fd1a86f29c48a292dd6bd0f2a45953dafca5d6c3ad642f4641d3dc89a8243",
+  "sample_size_bytes": 206018,
+  "total_records": 501
 }
