@@ -1,6 +1,6 @@
 # Restaurant Verified Email Access in Montana, US
 
-> Free BeamStation sample export with 50 rows and masked direct-contact fields.
+> Free BeamStation sample export with 29 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `377409` |
 | Location | Montana |
 | Category | Restaurants |
-| Full dataset size | 501 records |
-| Free sample size | 50 records (9.98%) |
-| Last export | 2026-04-15T05:26:46.510192+00:00 |
+| Full dataset size | 291 records |
+| Free sample size | 29 records (9.97%) |
+| Last export | 2026-04-22T11:21:57.709383+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-verified-email-access-in-montana-us-sample-377409/releases/download/sample-latest/beamstation_377409_restaurants-us-mt_SAMPLE_DIST.csv) |
 
 ## What is in this sample
